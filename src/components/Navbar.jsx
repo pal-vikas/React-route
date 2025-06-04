@@ -5,7 +5,7 @@ function Navbar()
     return (
         <>
         <div className="p-3 border-b border-neutral-200  ">
-            <div className="w-[900px] mx-auto  items-center flex justify-between">
+            <div className="w-[1000px] mx-auto  items-center flex justify-between">
                 {/* <a href="/" className="text-2xl font-black">React SPA.</a> */}
                 <Link to={'/'} className="text-2xl font-black">React SPA.</Link>
                 <div className=" flex gap-3 text-2xl">

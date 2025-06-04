@@ -4,7 +4,7 @@ function About ()
         <>
             <div className="w-[900px] mt-20 mx-auto">
 
-            <h1 className="text-4xl font-bold text-red-600">This is About page !!!</h1>
+            <h1 className="text-4xl font-bold text-red-600 text-center">This is About page !!!</h1>
 
             </div>
         </>
